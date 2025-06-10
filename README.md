@@ -28,7 +28,7 @@ This project explores U.S. electric vehicle (EV) adoption trends using 2023 data
 
 ## Dashboard Preview
 
-> ![EV Dashboard](ev_dashboard_preview.png)
+> ![EV Dashboard](ev_dashboard_preview_2023.png)
 
 ---
 
