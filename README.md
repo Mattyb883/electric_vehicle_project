@@ -88,15 +88,15 @@ Visualized trends and correlations in EV adoption across the U.S.:
 
 Using the regression model, we simulated EV share under three conditions:
 
-### 💵 Gas Prices Spike to $6
+### Gas Prices Spike to $6
 - Most states nearly **double** their EV share
 - Strongest effect in Republican states with low current adoption
 
-### 📈 Incentives Increase by 50%
+### Incentives Increase by 50%
 - Modest but meaningful increases in EV share
 - Strongest effect in lower-income and mid-adoption states
 
-### 🔁 Combined (Gas = $6 + Incentives +50%)
+### Combined (Gas = $6 + Incentives +50%)
 - Largest jump: Iowa from **0.29% → 2.86%**  
 - States with low current share show **>2% gains**
 
